@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "URL parts",
+  "description": "Breakdown URL and query params for easy copying.",
+  "version": "1.0",
+  "action": {
+    "default_popup": "./popup/popup.html",
+    "default_icon": "./images/hello_extensions.png"
+  },
+  "permissions": ["tabs"]
+}
